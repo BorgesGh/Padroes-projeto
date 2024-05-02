@@ -4,37 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16cccd89-545c-4967-ac8e-a5bbcb74cdd0" name="Changes" comment="...">
+    <list default="true" id="16cccd89-545c-4967-ac8e-a5bbcb74cdd0" name="Changes" comment="Ajustes para apresentação">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/factorys/AntFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/factorys/BeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/factorys/TroopFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/factorys/WarmFacoty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/troops/Ant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/troops/Bee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/troops/Troop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/troops/Warm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/padroes/strategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/padroes/strategy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/padroes/strategy/enums/Bagagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/padroes/strategy/enums/Bagagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/padroes/strategy/exceptions/IndefinedBoat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/padroes/strategy/exceptions/IndefinedBoat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/padroes/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/padroes/strategy/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/padroes/strategy/enums/Bagagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/padroes/strategy/enums/Bagagem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/padroes/strategy/exceptions/IndefinedBoat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/padroes/strategy/exceptions/IndefinedBoat.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BorgesGh"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BorgesGh&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/BorgesGh/Padroes-projeto.git",
-    "accountId": "00b618a9-d45f-4666-bf4c-50fcaf1e2d7d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BorgesGh/Padroes-projeto.git&quot;,
+    &quot;accountId&quot;: &quot;00b618a9-d45f-4666-bf4c-50fcaf1e2d7d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2euy9QDe3K1WX815BpFhqSeg7x3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +68,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/faculdade/projetos/java/padroesDeProjeto",
+    "last_opened_file_path": "D:/faculdade/projetos/java/padroesDeProjeto/padroes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,7 +111,9 @@
       <workItem from="1713204724215" duration="599000" />
       <workItem from="1713977692911" duration="1434000" />
       <workItem from="1713979140014" duration="236000" />
-      <workItem from="1714061067286" duration="1478000" />
+      <workItem from="1714061067286" duration="1688000" />
+      <workItem from="1714406094399" duration="168000" />
+      <workItem from="1714668770306" duration="1741000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionar novas pacotes">
       <option name="closed" value="true" />
@@ -108,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714063845260</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ajustes para apresentação">
+      <option name="closed" value="true" />
+      <created>1714064588469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714064588469</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +151,7 @@
     </ignored-roots>
     <MESSAGE value="Adicionar novas pacotes" />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="Ajustes para apresentação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajustes para apresentação" />
   </component>
 </project>
