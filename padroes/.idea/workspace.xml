@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16cccd89-545c-4967-ac8e-a5bbcb74cdd0" name="Changes" comment="Ajustes para apresentação">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/factorys/AntFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/factorys/BeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/factorys/TroopFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/factorys/WarmFacoty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/troops/Ant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/troops/Bee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/troops/Troop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/padroes/factorymethod/troops/Warm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/padroes/strategy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/padroes/strategy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/padroes/strategy/enums/Bagagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/padroes/strategy/enums/Bagagem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/padroes/strategy/exceptions/IndefinedBoat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/padroes/strategy/exceptions/IndefinedBoat.class" afterDir="false" />
-    </list>
+    <list default="true" id="16cccd89-545c-4967-ac8e-a5bbcb74cdd0" name="Changes" comment="Factory Method" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +97,7 @@
       <workItem from="1713979140014" duration="236000" />
       <workItem from="1714061067286" duration="1688000" />
       <workItem from="1714406094399" duration="168000" />
-      <workItem from="1714668770306" duration="1741000" />
+      <workItem from="1714668770306" duration="1820000" />
     </task>
     <task id="LOCAL-00001" summary="Adicionar novas pacotes">
       <option name="closed" value="true" />
@@ -139,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714064588469</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Factory Method">
+      <option name="closed" value="true" />
+      <created>1714670581960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714670581960</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +144,7 @@
     <MESSAGE value="Adicionar novas pacotes" />
     <MESSAGE value="..." />
     <MESSAGE value="Ajustes para apresentação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajustes para apresentação" />
+    <MESSAGE value="Factory Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factory Method" />
   </component>
 </project>

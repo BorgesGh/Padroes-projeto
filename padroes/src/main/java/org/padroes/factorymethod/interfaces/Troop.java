@@ -1,4 +1,4 @@
-package org.padroes.factorymethod.troops;
+package org.padroes.factorymethod.interfaces;
 
 public interface Troop {
     public void doAction();

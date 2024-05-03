@@ -2,8 +2,8 @@ package org.padroes.factorymethod;
 
 import org.padroes.factorymethod.factorys.AntFactory;
 import org.padroes.factorymethod.factorys.BeeFactory;
-import org.padroes.factorymethod.factorys.TroopFactory;
-import org.padroes.factorymethod.troops.Troop;
+import org.padroes.factorymethod.interfaces.TroopFactory;
+import org.padroes.factorymethod.interfaces.Troop;
 
 public class Main {
 
